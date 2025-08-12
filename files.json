@@ -1,8 +1,7 @@
 [
   { "file": "TheRawExt.dll", "hash": "52583B5108C6367D11B071F0AB9E1C89289DA54E80F01535FD1EE4C5E9A02B2E" },
  { "file": "D3DX9_43.dll", "hash": "6C9664A1F38AEE74D5F2F3F2BAA65725D41E235221F497E434EA13E7BF66E5DE" },
-{ "file": "Game/Database/Table/Shop.csv", "hash": "eb9a6d000df875f983c2ffd1ae297d7521edefb59248fd321efd68ec2f9db26f" },
-{ "file": "Game/Database/Table/Slang.txt", "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" },
+{ "file": "Game/Database/Table/Shop.csv", "hash": "EB9A6D000DF875F983C2FFD1AE297D7521EDEFB59248FD321EFD68EC2F9DB26F" },
 { "file": "Game/Database/Table/Slang.txt", "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" },
   { "file": "Game/Materials/BG_Materials/decal/money_sg01.dds", "hash": "899A6582B740DAC5DBD6B4DA298ADA2C9D59187F66FFD463345AA20BBBFBD590" }
 ]
