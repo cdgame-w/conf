@@ -5,7 +5,5 @@
 { "file": "Game/Database/Table/Slang.txt", "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855" },
 { "file": "Game/Materials/BG_Materials/decal/money_sg01.dds", "hash": "899A6582B740DAC5DBD6B4DA298ADA2C9D59187F66FFD463345AA20BBBFBD590" },
 { "file": "Game/Materials/BG_Materials/decal/door/door_LK_12.dds", "hash": "9E4BD3E5BFB0592F32201E2F981CA880AEA988984D6128762282EE45862D7A24" },
-{ "file": "Game/Materials/BG_Materials/decal/Turkey_Pattern_hd_04.dds", "hash": "9CD4F1EAC235CB1908E5613AD995FF4232F3E6DE057890A377D9E3A1EDDB3729" },
-  
-  
+{ "file": "Game/Materials/BG_Materials/decal/Turkey_Pattern_hd_04.dds", "hash": "9CD4F1EAC235CB1908E5613AD995FF4232F3E6DE057890A377D9E3A1EDDB3729" } 
 ]
