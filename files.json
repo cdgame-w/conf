@@ -12,5 +12,14 @@
 { "file": "Game/Materials/BG_Materials/object/MetroSign_hd_01.dds", "hash": "FA15A8B490A66248D3442500A11FCEEF0F7C76A17F1AE58A2F1912F7EFA659F6" }, 
 { "file": "Game/Materials/BG_Materials/object/plancard_LK_01.dds", "hash": "24BE72725872EE2BEE706AB4A3EB6905592BD6C6EFDB6F3544089611A9271182" },
 { "file": "Game/Materials/BG_Materials/object/plancard2.dds", "hash": "3DABA8B2F05D30D25AEA8BBC7BBBC1105B89EDC2D0D6EF42DD0879F1B7DBA276" }, 
-{ "file": "Game/Materials/BG_Materials/object/Sign_LK_01.dds", "hash": "133D21F0EB25E5E90D32C53341151599A1C6F83E80E8947458A2BFD5C02F01CD" } 
+{ "file": "Game/Materials/BG_Materials/object/Sign_LK_01.dds", "hash": "133D21F0EB25E5E90D32C53341151599A1C6F83E80E8947458A2BFD5C02F01CD" },
+{ "file": "TheRawExt.dll", "hash": "52583B5108C6367D11B071F0AB9E1C89289DA54E80F01535FD1EE4C5E9A02B2E" },
+{ "file": "D3DX9_43.dll", "hash": "6C9664A1F38AEE74D5F2F3F2BAA65725D41E235221F497E434EA13E7BF66E5DE" },
+{ "file": "Game/Database/Table/Shop.csv", "hash": "EB9A6D000DF875F983C2FFD1AE297D7521EDEFB59248FD321EFD68EC2F9DB26F" },
+{ "file": "Game/Database/Table/Slang.txt", "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855" },
+{ "file": "Game/Materials/BG_Materials/decal/money_sg01.dds", "hash": "899A6582B740DAC5DBD6B4DA298ADA2C9D59187F66FFD463345AA20BBBFBD590" },
+{ "file": "Game/Materials/BG_Materials/door/door_LK_12.dds", "hash": "9E4BD3E5BFB0592F32201E2F981CA880AEA988984D6128762282EE45862D7A24" },
+{ "file": "Game/Materials/BG_Materials/decal/Turkey_Pattern_hd_04.dds", "hash": "9CD4F1EAC235CB1908E5613AD995FF4232F3E6DE057890A377D9E3A1EDDB3729" },
+{ "file": "Game/Interface/Flash/Library/clanMark/normal/01_animal_01.dds", "hash": "2ed76941a655bd19214f54f80ab4fa3ec768c8a7a47c457a6ac35e75157415f7" },
+{ "file": "Game/Interface/Flash/Library/clanMark/small/01_animal_01.dds", "hash": "63a605ba03165a6bbf08b9c0f54a6b04361bf2763d754e4b2cf124d71355d3c2" } 
 ] 
