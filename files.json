@@ -13,8 +13,6 @@
   { "file": "Game/Materials/BG_Materials/object/plancard_LK_01.dds", "hash": "24BE72725872EE2BEE706AB4A3EB6905592BD6C6EFDB6F3544089611A9271182" },
   { "file": "Game/Materials/BG_Materials/object/plancard2.dds", "hash": "3d68c587c15d6e37f992a286e569152245971a4726410ece7be03b4d08b11928" },
   { "file": "Game/Materials/BG_Materials/object/Sign_LK_01.dds", "hash": "6343e2bbd51ec0d044f636fed8935c7eafe303a38fbf6afbdf02bac450859662" },
-  { "file": "TheRawExt.dll", "hash": "52583B5108C6367D11B071F0AB9E1C89289DA54E80F01535FD1EE4C5E9A02B2E" },
-  { "file": "D3DX9_43.dll", "hash": "6C9664A1F38AEE74D5F2F3F2BAA65725D41E235221F497E434EA13E7BF66E5DE" },
   { "file": "Game/Database/Table/Shop.csv", "hash": "EB9A6D000DF875F983C2FFD1AE297D7521EDEFB59248FD321EFD68EC2F9DB26F" },
   { "file": "Game/Database/Table/Slang.txt", "hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855" },
   { "file": "Game/Materials/BG_Materials/decal/money_sg01.dds", "hash": "78201f867a81192616c2453feeb0533f2c514916b8bb3d02d18d671729f11c5a" },
